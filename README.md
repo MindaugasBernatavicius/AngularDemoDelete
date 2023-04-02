@@ -9,3 +9,7 @@ This is my awesome app that allows x, y, z
 - git clone ...
 - cd ...
 - npm install
+
+## Deploy to github pages
+
+ng build --output-path docs --base-href AngularDemoDelete

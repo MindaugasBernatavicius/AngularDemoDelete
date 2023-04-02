@@ -12,4 +12,4 @@ This is my awesome app that allows x, y, z
 
 ## Deploy to github pages
 
-ng build --output-path docs --base-href AngularDemoDelete
+ng build --output-path docs --base-href /AngularDemoDelete/
